@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "this is my Second blog"
-date:       2020-10-07 01:36:42 +0000
+date:       2020-10-06 21:36:43 -0400
 permalink:  this_is_my_second_blog
 ---
 
